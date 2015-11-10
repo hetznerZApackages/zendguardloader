@@ -1,0 +1,7 @@
+zendguardloader for Debian
+--------------------------
+
+This package requires php5.3
+See zendoptimizer forum for discussion about why ZendOptimizer is no more. http://forums.zend.com/viewtopic.php?f=57&t=6639
+
+ -- Walter Kleynscheldt - Hetzner ZA <walter.kleynscheldt@hetzner.co.za>  Tue, 19 Jul 2011 12:01:27 +0200

@@ -1,0 +1,133 @@
+zendguardloader (6.0.0-1+hetz5) wheezy-hetz; urgency=low
+
+  * Released 6.0.0-1+hetz5~exp2 as 6.0.0-1+hetz5
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 10 Nov 2015 15:53:02 +0200
+
+zendguardloader (6.0.0-1+hetz5~exp2) wheezy-hetz-experimental; urgency=low
+
+  * Support both php 5.6 extension dirs 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 10 Nov 2015 15:38:26 +0200
+
+zendguardloader (6.0.0-1+hetz5~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Remove php56 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 05 Nov 2015 14:31:52 +0200
+
+zendguardloader (6.0.0-1+hetz4) wheezy-hetz; urgency=low
+
+  * Released 6.0.0-1+hetz4~exp1 as 6.0.0-1+hetz4
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 09 Jun 2015 12:50:34 +0200
+
+zendguardloader (6.0.0-1+hetz4~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Bump version 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 09 Jun 2015 12:49:56 +0200
+
+zendguardloader (6.0.0-1+hetz3) wheezy-hetz; urgency=low
+
+  * Released 6.0.0-1+hetz3~exp1 as 6.0.0-1+hetz3
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 09 Jun 2015 12:46:09 +0200
+
+zendguardloader (6.0.0-1+hetz3~exp1) wheezy-hetz-experimental; urgency=low
+
+  * opcache already provided by php56 package 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 09 Jun 2015 12:45:36 +0200
+
+zendguardloader (6.0.0-1+hetz2) wheezy-hetz; urgency=low
+
+  * Released 6.0.0-1+hetz2~exp1 as 6.0.0-1+hetz2
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 09 Jun 2015 12:19:08 +0200
+
+zendguardloader (6.0.0-1+hetz2~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Adding the PHP 5.6 zend guard loader 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 09 Jun 2015 08:58:07 +0200
+
+zendguardloader (6.0.0-1+hetz1) wheezy-hetz; urgency=low
+
+  * Released 6.0.0-1+hetz1~exp1 as 6.0.0-1+hetz1
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Thu, 03 Oct 2013 11:42:36 +0200
+
+zendguardloader (6.0.0-1+hetz1~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Change wheezy version to conform to upstream version
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Thu, 03 Oct 2013 11:36:44 +0200
+
+zendguardloader (5.5.0-1+hetz4) wheezy-hetz; urgency=low
+
+  * Released 5.5.0-1+hetz4~exp1 as 5.5.0-1+hetz4
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 06 Aug 2013 11:05:50 +0200
+
+zendguardloader (5.5.0-1+hetz4~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Create Wheezy package
+  * Remove PHP 5.3 version
+  * Install PHP 5.4 version to correct directory
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 06 Aug 2013 10:57:44 +0200
+
+zendguardloader (5.5.0-1+hetz3) squeeze-hetz; urgency=low
+
+  * Released 5.5.0-1+hetz3~exp4 as 5.5.0-1+hetz3
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Tue, 02 Jul 2013 08:44:07 +0200
+
+zendguardloader (5.5.0-1+hetz3~exp4) squeeze-hetz-experimental; urgency=low
+
+  * Version bump
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Mon, 01 Jul 2013 15:52:47 +0200
+
+zendguardloader (5.5.0-1+hetz3~exp3) squeeze-hetz-experimental; urgency=low
+
+  * Version bump
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Mon, 01 Jul 2013 15:44:35 +0200
+
+zendguardloader (5.5.0-1+hetz3~exp2) squeeze-hetz-experimental; urgency=low
+
+  * Remove AMD64 plugin for now
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Mon, 01 Jul 2013 15:20:28 +0200
+
+zendguardloader (5.5.0-1+hetz3~exp1) squeeze-hetz-experimental; urgency=low
+
+  * Add Zend Guard Loader 6.0.1 for PHP 5.4.4 as well
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Mon, 01 Jul 2013 14:06:29 +0200
+
+zendguardloader (5.5.0-1+hetz2) squeeze-hetz; urgency=low
+
+  * Released 5.5.0-1+hetz2~exp1 as 5.5.0-1+hetz2
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Mon, 16 Jan 2012 09:11:45 +0200
+
+zendguardloader (5.5.0-1+hetz2~exp1) squeeze-hetz-experimental; urgency=low
+
+  * Build for Squeeze 
+
+ -- Geoff Robertson <geoff.robertson@hetzner.co.za>  Mon, 16 Jan 2012 08:54:54 +0200
+
+zendguardloader (5.5.0-1+hetz1) lenny-hetz; urgency=low
+
+  * Released 5.5.0-1+hetz1~exp1 as 5.5.0-1+hetz1
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Tue, 19 Jul 2011 15:47:09 +0200
+
+zendguardloader (5.5.0-1+hetz1~exp1) lenny-hetz-experimental; urgency=low
+
+  * Initial release
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Tue, 19 Jul 2011 14:02:07 +0200
