@@ -3,7 +3,5 @@
 	dh $@
 
 override_dh_auto_install:
-	ls -l
-	ls -l zend-loader-php5.6-linux-i386
-	dh_install
+	dh_install zend-loader-php5.6-linux-i386 usr/lib/php5/20131226
 
