@@ -1,8 +1,0 @@
-mkdir zendguardloader-5.5.0
-tar -C zendguardloader-5.5.0 -xvf ZendGuardLoader-php-5.3-linux-glibc23-i386.tar.gz
-tar -C zendguardloader-5.5.0 -xvf ZendGuardLoader-php-5.3-linux-glibc23-x86_64.tar.gz
-tar -cvzf zendguardloader_5.5.0.orig.tar.gz zendguardloader-5.5.0
-rm -rf zendguardloader-5.5.0
-
-Follow wiki doc to build deb: http://intranet.hetzner.co.za/index.php/Hetzner_Debian_package_repository#Importing_software_not_already_in_Debian
-pb-import-package zendguardloader_5.5.0.orig.tar.gz
