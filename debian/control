@@ -2,13 +2,13 @@ Source: zendguardloader
 Section: web
 Priority: extra
 Maintainer: The Kernels - Hetzner ZA <kernels@hetzner.co.za>
-Build-Depends: debhelper (>= 7), chrpath
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.3
 Homepage: http://www.zend.com
 
 Package: zendguardloader
 Architecture: i386
-Depends: libc6 (>= 2.7), php5-common (>= 5.2.6)
+Depends: libc6 (>= 2.14), php5-common (>= 5.6.14)
 Description: Zend Guard
  Decodes files encrypted with Zend Guard.
  Homepage: http://www.zend.com
