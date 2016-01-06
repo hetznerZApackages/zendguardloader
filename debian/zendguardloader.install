@@ -1,2 +1,2 @@
-usr/lib/php5/20131226/*.so.*
+zend-loader-php5.6-linux-i386/*.so.* /usr/lib/php5/20131226/
 random.txt usr/
