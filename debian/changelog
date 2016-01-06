@@ -1,3 +1,9 @@
+zendguardloader (7.0.0-1+hetz1) jessie-hetz; urgency=low
+
+  * Released 7.0.0-1+hetz1~exp19 as 7.0.0-1+hetz1
+
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Wed, 06 Jan 2016 15:55:38 +0200
+
 zendguardloader (7.0.0-1+hetz1~exp19) jessie-hetz-experimental; urgency=low
 
   * Zend Guard Loader 7 32bit
