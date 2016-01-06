@@ -1,8 +1,8 @@
-zendguardloader (7.0.0-1+hetz1~exp7) jessie-hetz-experimental; urgency=low
+zendguardloader (7.0.0-1+hetz1~exp8) jessie-hetz-experimental; urgency=low
 
   * Zend Guard Loader 7 32bit
 
- -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Wed, 06 Jan 2016 14:17:06 +0200
+ -- Shaun Bugler - Hetzner (Pty) Ltd <sb@hetzner.co.za>  Wed, 06 Jan 2016 14:23:06 +0200
 
 zendguardloader (6.0.0-1+hetz5) wheezy-hetz; urgency=low
 
